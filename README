@@ -1,0 +1,9 @@
+Module Boilerplate
+==================
+
+this is a starter kit to help developer focusing on what matters when usign Centurion.
+
+you will have to create several modules and creating all the needed folders is a error prone task
+
+so this module is a default module skeleton it is intended to avoid errors that may append 
+if you create the whole files/folders tree by hand
