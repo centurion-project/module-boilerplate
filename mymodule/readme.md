@@ -1,7 +1,7 @@
 My Module
 =========
 
-Name : mymodule
+Name : mymodule 
 Author : Mathias Desloges (md@centurion-project.org)
 
 Description :
