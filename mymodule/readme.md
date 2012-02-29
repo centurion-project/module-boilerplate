@@ -1,7 +1,7 @@
 My Module
 =========
 
-Name : mymodule 
+Name : mymodule
 Author : Mathias Desloges (md@centurion-project.org)
 
 Description :
@@ -18,12 +18,12 @@ Usage :
 As evry module, before using it, you must add the folowing line to your config file named modules.ini 
 and located in the 'CENTURION_PATH/config' folder
 
-` resources.modules[] = "mymodule"
+` resources.modules[] = "mymodule" `
 
 
 Once this is done, you may find a default controller named IndexController in the controller folder
 and the associated views has been created to. so you can directly type the folowing url in your browser
 
-` http://yourdomain.com/mymodule/index/index
+` http://yourdomain.com/mymodule/index/index `
 
 and you should see a the default page provided by your module.
